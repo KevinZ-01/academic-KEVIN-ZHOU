@@ -18,7 +18,7 @@ organizations:
   url: "http://www.zju.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest is all aspects relative to AI, including but not limited to computer version, NLP, machine learning, data mining. My future research goal is to make machine's ability approach to human in more application fields, and to make machine think like a human. What's more, I'm also interested in bioinformatics, particular researches related to finding out physical and chemical mechanism of cell activities, including Transcription, reverse transcription and etc.
+bio: 
 
 interests:
 - Artificial Intelligence
@@ -59,3 +59,4 @@ email: "3170104135@zju.edu.cn"
 # - Researchers
 # - Visitors
 ---
+My research interest is all aspects relative to AI, including but not limited to computer version, NLP, machine learning, data mining. My future research goal is to make machine's ability approach to human in more application fields, and to make machine think like a human. What's more, I'm also interested in bioinformatics, particular researches related to finding out physical and chemical mechanism of cell activities, including Transcription, reverse transcription and etc.
